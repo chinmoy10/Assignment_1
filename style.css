@@ -65,7 +65,7 @@ body {
 
 .food-section-2 .about_me p {
     font-size: 20px;
-    color: #929090;
+    color: #3d3d3d;
 }
 
 .banner {
@@ -74,3 +74,42 @@ body {
     background-size: cover;
 }
 
+.food-recipies{
+    padding-top: 50px;
+}
+
+.food-recipies h1{
+    text-align: center;
+    color: #696969;
+    font-size: 30px;
+}
+
+.recipe-para{
+    text-align: center;
+    color: #3d3d3d;
+    font-size: 17px;
+}
+
+.items-part{
+    padding: 10px 60px;
+}
+
+
+.food-items img{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.food-items{
+    padding: 20px;
+    padding-left: 20px;
+    box-shadow: 10px 10px 15px #3d3d3d56;
+    width: 50%;
+    margin:10px 30px;
+    border-radius: 25px;
+}
+
+.food-items h2{
+    font-size: 25px;
+    font-weight: 800;
+}
