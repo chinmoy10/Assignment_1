@@ -103,7 +103,7 @@ body {
 .food-items{
     padding: 20px;
     padding-left: 20px;
-    box-shadow: 10px 10px 15px #3d3d3d56;
+    box-shadow: 10px 10px  35px #3d3d3d56;
     width: 50%;
     margin:10px 30px;
     border-radius: 25px;
@@ -113,3 +113,29 @@ body {
     font-size: 25px;
     font-weight: 800;
 }
+
+.optional-part{
+    padding-top: 100px;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+.optional-items{
+    padding: 0px 80px;
+    box-shadow: 12px 12px 45px #3d3d3d56;
+    margin:50px 30px;
+    border-radius: 35px;
+}
+
+.optional-counter{
+    margin-left: 145px;
+}
+
+.optional-counter h1{
+    font-size: 50px;
+}
+
+.optional-counter p{
+    font-size: 15px;
+}
+
